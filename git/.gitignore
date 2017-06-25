@@ -2,8 +2,6 @@
 
 bin
 
-lib
-
 *.classpath
 
 *.project
